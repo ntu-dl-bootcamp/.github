@@ -11,8 +11,8 @@ Current version is https://ntu-dl-bootcamp.github.io/deep-learning-2026.
 
 ## 🧭 Previous Bootcamps
 
-- [2025](https://ntu-dl-bootcamp.github.io/deep-learning-2025/)
-- [2024](https://ntu-dl-bootcamp.github.io/deep-learning-2024/)
+- [2025](https://github.com/ntu-dl-bootcamp/deep-learning-2025)
+- [2024](https://github.com/ntu-dl-bootcamp/deep-learning-2024)
 
 ---
 
